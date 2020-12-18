@@ -81,21 +81,6 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			<div class="p-10">
-  <div class="card w-96">
-    <figure>
-      <img src="https://images.unsplash.com/photo-1556740758-90de374c12ad?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=80">
-    </figure> 
-    <div class="card-body">
-      <h2 class="card-title">With button 
-        <div class="badge success">NEW</div>
-      </h2> 
-      <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> 
-      <div class="justify-end space-x-2 card-actions">
-        <button class="btn primary">More info</button>
-      </div>
-    </div>
-  </div>
-</div>
+				<div class="card shadow-xl image-full"><figure><img src="https://picsum.photos/id/1005/600/400"></figure> <div class="justify-end card-body"><h2 class="card-title">Image bottom</h2> <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> <div class="space-x-2 card-actions"><button class="btn btn-primary">Get Started</button></div></div></div>
 	</foreignObject>
 </svg>
